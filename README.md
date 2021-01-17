@@ -42,14 +42,14 @@ npm start
 
 #### [React Starter App Demo](https://react-starter-app.techstackgit.repl.co)
 
-%[https://reactjs-starter-app.glitch.me]
+[Edit on Glitch](https://reactjs-starter-app.glitch.me)
 
 
 > The development server runs the app at port 3000 on your local machine by default, http://localhost:3000/. If the port is different, it means another server is already running at port 3000.
 
 If interested to install React online follow the steps below: 
 
-%[https://repl.it/@techstackgit/Desktop]
+[Edit on Replit](https://repl.it/@techstackgit/Desktop)
 
 **[Steps](https://camo.githubusercontent.com/b275c108e1c9e2d1c732a66ca1e0b6ecb1ae260824fb5d6ca4c4e46ee85d1ca0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f66616365626f6f6b2f6372656174652d72656163742d61707040323762343261633765666130313866323534313135336162333064363331383066356661333965302f73637265656e636173742e737667)**:
 - Click the *Shell* navigation tab.
